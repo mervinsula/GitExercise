@@ -1,0 +1,24 @@
+GitHub Desktop Exercises
+
+
+I.	Individual: Basic GitHub Desktop Routine
+○ Instructions: 
+1. Clone repo from this link: https://github.com/mervinsula/GitExercise/tree/main using GitHub Desktop.
+2. Create a branch using your initials (ex. MMS for Mervin M. Sula)
+3. Publish your created branch to the Git repo.
+4. Check Git repo if successfully publish your branch.
+5. Go back to GitHub Desktop open the file using VS Code or open the file directly from the folder.
+6. Write your complete name after your assigned code (ex. C01: Mervin Sula) and save it.
+7. Go back to GitHub Desktop then make a commit, make sure to write a subject and a description before committing. (ex. Subject: PH-01)
+8. Push your commit.
+9. Check Git repo if successfully pushed the changes on your created branch.
+10. On GitHub Desktop switch to main branch.
+11. Merge main branch from your created branch.
+12. Push your merge.
+13. Check the file if successfully merged.
+14. Fetch, then pull if there's any changes.
+*If there’s any changes
+15. Switch to your branch.
+16. Merge your branch from main branch.
+17. Push your changes to your Git Repo branch.
+18. Lastly, check Git repo if successfully updated your branch.
