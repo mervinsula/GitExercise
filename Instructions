@@ -9,7 +9,7 @@ I.	Individual: Basic GitHub Desktop Routine
 4. Check Git repo if successfully publish your branch.
 5. Go back to GitHub Desktop open the file using VS Code or open the file directly from the folder.
 6. Write your complete name after your assigned code (ex. C01: Mervin Sula) and save it.
-7. Go back to GitHub Desktop then make a commit, make sure to write a subject and a description before committing. (ex. Subject: PH-01)
+7. Go back to GitHub Desktop then make a commit, make sure to write a subject and a description before committing. (ex. Subject: FE-C01)
 8. Push your commit.
 9. Check Git repo if successfully pushed the changes on your created branch.
 10. On GitHub Desktop switch to main branch.
