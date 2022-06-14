@@ -1,12 +1,8 @@
 C01: Mike Espera
 C02:
-C03:
-C04:
-C05: NIKKI THEA B. NEMENZO
-C06:
 C03: ALAICA MARINO
 C04: Kristoffer Francis E. Milan
-C05:
+C05: Nikki Thea B. Nemenzo
 C06: Javin Stefan Tan
 M01:
 M02:
