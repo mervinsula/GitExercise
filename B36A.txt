@@ -3,7 +3,7 @@ C02:
 C03: ALAICA MARINO
 C04: Kristoffer Francis E. Milan
 C05:
-C06:
+C06: Javin Stefan Tan
 M01:
 M02:
 M03:
